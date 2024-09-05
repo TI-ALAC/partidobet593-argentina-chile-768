@@ -31,24 +31,26 @@ img {
     #title1,
     #title2,
     #title3 {
-        font-size: 80pt !important;
+        font-size: 29pt !important;
         font-family: 'Roboto';
-        color: #000;
         position: absolute;
     }
 
     #title1 {
-        left: 0%;
-        top: 41%;
+        color: #fff;
+        left: 51.5%;
+        top: 72%;
     }
 
     #title2 {
-        left: 15%;
-        top: 60%;
+        color: #0f0f88;
+        left: 67.5%;
+        top: 72%;
     }
 
     #title3 {
-        left: 73%;
-        top: 60%;
+        color: #fff;
+        left: 81.5%;
+        top: 72%;
     }
 }
